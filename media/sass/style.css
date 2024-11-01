@@ -1,0 +1,326 @@
+.tshape-admin_options_wrapper {
+  width: 100%; }
+
+.tshape-admin_skill_table {
+  font-size: 120%;
+  width: 100%; }
+
+.tshape-admin_shortcode--display {
+  font-weight: bold;
+  color: #000000 !important; }
+
+.tshape-admin_shortcode--description {
+  font-style: italic; }
+
+.tshape-admin_options {
+  float: left;
+  padding-right: 100px; }
+
+.tshape-admin_options .tshape-form-table th {
+  width: 250px; }
+
+.tshape-admin_options_img {
+  float: left;
+  padding-top: 60px; }
+
+.tshape-admin_skill_table--new {
+  font-size: 120%;
+  width: 100%;
+  margin-top: 15px; }
+
+.tshape-admin_skill_table, .tshape-admin_skill_table--new select {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px; }
+
+.tshape-bur-ts-adm-submit {
+  float: left; }
+
+.tshape-admin_skill_table--new, .tshape-admin_skill_table th, td {
+  padding: 10px 5px 10px 5px;
+  text-align: left; }
+
+.tshape-admin_skill_table tr:nth-child(even) {
+  background-color: #f2f2f2; }
+
+/* Front End Styles */
+.tshape-tshape {
+  font-family: arial;
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 20px 0px; }
+
+.tshape-skills {
+  margin-right: 10px;
+  text-align: center; }
+
+.tshape-skills__name {
+  position: relative;
+  width: 40px;
+  height: 180px;
+  color: white;
+  background-color: #133d58;
+  margin-bottom: 10px;
+  align-self: flex-start;
+  flex-basis: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis; }
+
+.tshape-skills__nametext {
+  transform: translate(0, 100%) rotate(-90deg);
+  transform-origin: -1px -12px;
+  position: absolute;
+  bottom: 0; }
+
+.tshape-skills__textoverflow {
+  width: 150px;
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis; }
+
+.tshape-skills__level {
+  background-color: #8fb64a;
+  align-self: flex-start;
+  /*text-align: center;*/
+  flex-basis: 0; }
+
+.tshape-skills__level--basic {
+  height: 100px; }
+
+.tshape-skills__level--good {
+  height: 200px; }
+
+.tshape-skills__level--verygood {
+  height: 300px; }
+
+.tshape-skills__level--expert {
+  height: 400px; }
+
+.tshape-tagcloud {
+  line-height: 1.3 !important;
+  word-spacing: 10px;
+  padding: 20px 0px; }
+
+/* Styles for Skills Tag Cloud Levels */
+.tshape-tagcloud-skills__level--basic {
+  font-size: 80%; }
+
+.tshape-tagcloud-skills__level--good {
+  font-size: 120%; }
+
+.tshape-tagcloud-skills__level--verygood {
+  font-size: 160%; }
+
+.tshape-tagcloud-skills__level--expert {
+  font-size: 220%; }
+
+/* TShape View Type Bars */
+.tshape-bars {
+  justify-content: center;
+  padding: 20px 0;
+  /*display: table-row;*/ }
+
+.tshape-bar_row {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 10px; }
+
+.tshape-bars-skills__name {
+  background-color: #133d58;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-left: 10px;
+  line-height: 250%;
+  color: #fff;
+  flex-grow: 0;
+  flex-shrink: 0; }
+
+.tshape-bars-skills__level {
+  width: 100%;
+  display: flex; }
+
+.tshape-bars .tshape-bar_row .tshape-bars-skills__level:first-of-type {
+  min-width: 0;
+  padding: 0 10px 0 0; }
+
+.tshape-bars-skills__level--basic {
+  background-color: #8fb64a;
+  width: 25%;
+  margin-left: 10px; }
+
+.tshape-bars-skills__level--good {
+  background-color: #8fb64a;
+  width: 50%;
+  margin-left: 10px; }
+
+.tshape-bars-skills__level--verygood {
+  background-color: #8fb64a;
+  width: 75%;
+  margin-left: 10px; }
+
+.tshape-bars-skills__level--expert {
+  background-color: #8fb64a;
+  width: 100%;
+  margin-left: 10px; }
+
+/*
+.tshape {
+    font: 15px Arial;
+    display:flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+.skills{
+    margin-right: 10px;
+    text-align: center;
+}*/
+/*View Star-rating*/
+.tshape-stars {
+  justify-content: center;
+  padding: 20px 0; }
+
+.tshape-rating {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 10px; }
+
+.tshape-rating_name {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-right: 10px;
+  line-height: 250%;
+  padding: 0px 10px;
+  flex-grow: 0;
+  flex-shrink: 0;
+  width: 150px;
+  min-width: 100px; }
+
+.tshape-star_rating {
+  width: 100%;
+  display: flex; }
+
+.tshape-star_rating-star {
+  color: #fd0 !important;
+  font-size: 40px !important; }
+
+/* ToolTip*/
+.tshape-tooltip {
+  position: relative; }
+
+.tshape-tooltip .tshape-tooltiptext {
+  visibility: hidden;
+  max-width: 180px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -60px;
+  margin-bottom: 180px;
+  opacity: 0;
+  transition: opacity 1s;
+  padding-left: 8px;
+  padding-right: 8px; }
+
+.tshape-tooltip .tshape-tooltiptext::after {
+  position: absolute;
+  left: 15px;
+  top: -10px;
+  border-top: 7px solid #ff0000;
+  border-left: 7px solid transparent;
+  border-right: 7px solid transparent;
+  content: "";
+  display: none; }
+
+.tshape-tooltip:hover .tshape-tooltiptext {
+  visibility: visible;
+  opacity: 1; }
+
+/*-----------------
+/* media queries*/
+/*--------------*/
+/* Smalls phones*/
+@media only screen and (max-width: 480px) {
+  .tshape-tshape {
+    flex-direction: column; }
+
+  .tshape-skills {
+    display: flex;
+    width: 100%; }
+
+  .tshape-skills__name {
+    margin-bottom: 10px;
+    /* align-self: flex-start; */
+    /* white-space: nowrap; */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 150px;
+    height: 40px !important;
+    min-width: 100px;
+    flex-basis: 40%;
+    margin-right: 10px; }
+
+  .tshape-skills__nametext {
+    transform: initial;
+    position: relative;
+    top: 8px;
+    left: 10px; }
+
+  .tshape-skills__textoverflow {
+    position: initial;
+    width: 85% !important;
+    min-width: 100px; }
+
+  .tshape-tooltip .tshape-tooltiptext {
+    visibility: hidden;
+    bottom: 30%;
+    left: 10%;
+    margin-bottom: 8px;
+    margin-left: 0; }
+
+  .tshape-skills__level {
+    height: 40px; }
+
+  .tshape-skills__level--basic {
+    flex-basis: 20.5%; }
+
+  .tshape-skills__level--good {
+    flex-basis: 35%; }
+
+  .tshape-skills__level--verygood {
+    flex-basis: 44.5%; }
+
+  .tshape-skills__level--expert {
+    flex-basis: 57%; }
+
+  .tshape-stars {
+    flex-direction: column; }
+
+  .tshape-rating {
+    display: flex;
+    width: 100%; }
+
+  .tshape-rating_name {
+    margin-bottom: 10px;
+    /* align-self: flex-start; */
+    /* white-space: nowrap; */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 150px;
+    height: 40px !important;
+    min-width: 100px;
+    flex-basis: 40%;
+    margin-right: 10px; } }
+/* Smalls phones to small tablets*/
+/* small tablets zo big tablets*/
+/* bis tablets to 1200*/

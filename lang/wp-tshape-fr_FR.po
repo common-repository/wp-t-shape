@@ -1,0 +1,237 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-21 11:26+0000\n"
+"PO-Revision-Date: 2017-11-21 12:59+0000\n"
+"Last-Translator: Admin <jb@besserdich-redmann.com>\n"
+"Language-Team: French (France)\n"
+"Language: fr-FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: de_DE\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Parser: loco_parse_po"
+
+#: includes/posttypes/tshape.php:6
+msgctxt "Post Type General Name"
+msgid "T-Shapes"
+msgstr "T-Shapes"
+
+#: includes/posttypes/tshape.php:7
+msgctxt "Post Type Singular Name"
+msgid "T-Shape"
+msgstr "T-Shape"
+
+#: includes/posttypes/tshape.php:8 includes/posttypes/tshape.php:35
+msgid "T-Shape"
+msgstr "T-Shape"
+
+#: includes/posttypes/tshape.php:9
+msgid "Post Type"
+msgstr "Post Type"
+
+#: includes/posttypes/tshape.php:10
+msgid "Item Archives"
+msgstr "Archives de l'élément"
+
+#: includes/posttypes/tshape.php:11
+msgid "Item Attributes"
+msgstr "Attributs de l'élément"
+
+#: includes/posttypes/tshape.php:12
+msgid "Parent Item:"
+msgstr "Parent de l'élément"
+
+#: includes/posttypes/tshape.php:13
+msgid "All T-Shapes"
+msgstr "Tous les T-Shapes"
+
+#: includes/posttypes/tshape.php:14 includes/posttypes/tshape.php:15
+msgid "Add New T-Shape"
+msgstr "Ajouter nouvelle T-Shape"
+
+#: includes/posttypes/tshape.php:16
+msgid "New T-Shape"
+msgstr "Nouvelle T-Shape"
+
+#: includes/posttypes/tshape.php:17
+msgid "Edit T-Shape"
+msgstr "Modifier la T-Shape"
+
+#: includes/posttypes/tshape.php:18
+msgid "Update T-Shape"
+msgstr "Mettre à jour la T-Shape"
+
+#: includes/posttypes/tshape.php:19
+msgid "View Item"
+msgstr "Voir l'élément"
+
+#: includes/posttypes/tshape.php:20
+msgid "View Items"
+msgstr "Voir les éléments"
+
+#: includes/posttypes/tshape.php:21
+msgid "Search Item"
+msgstr "Chercher l'élément"
+
+#: includes/posttypes/tshape.php:22
+msgid "Not found"
+msgstr "Pas trouvé"
+
+#: includes/posttypes/tshape.php:23
+msgid "Not found in Trash"
+msgstr "Pas trouvé dans la corbeille"
+
+#: includes/posttypes/tshape.php:24
+msgid "Featured Image"
+msgstr "Image sélectionnée"
+
+#: includes/posttypes/tshape.php:25
+msgid "Set featured image"
+msgstr "Definir l'image sélectionnée"
+
+#: includes/posttypes/tshape.php:26
+msgid "Remove featured image"
+msgstr "Supprimer l'image sélectionnée"
+
+#: includes/posttypes/tshape.php:27
+msgid "Use as featured image"
+msgstr "Utiliser comme image sélectionnée"
+
+#: includes/posttypes/tshape.php:28
+msgid "Insert into item"
+msgstr "Insérer dans l'élément"
+
+#: includes/posttypes/tshape.php:29
+msgid "Uploaded to this item"
+msgstr "Téléchargé à cet élément"
+
+#: includes/posttypes/tshape.php:30
+msgid "Items list"
+msgstr "Liste d'éléments"
+
+#: includes/posttypes/tshape.php:31
+msgid "Items list navigation"
+msgstr "Navigation dans la liste d'éléments"
+
+#: includes/posttypes/tshape.php:32
+msgid "Filter items list"
+msgstr "Filtrer la liste des éléments"
+
+#: includes/posttypes/tshape.php:36
+msgid "Custom Post Type for skill T-shapes"
+msgstr "Custom Post Type pour les compétences T-Shape"
+
+msgctxt "T-Shape"
+msgid "Post Type"
+msgstr "Post Type"
+
+#: wp-tshape.php:168 wp-tshape.php:168 includes/backend/options-page.php:148
+msgid "WP T-Shape Options"
+msgstr " WP T-Shape Options"
+
+#: includes/backend/options-page.php:108
+msgid "Colors"
+msgstr "Couleurs"
+
+#: includes/backend/options-page.php:113
+msgid "Background Color of Skill Level"
+msgstr "Couleur de Fond du niveau"
+
+#: includes/backend/options-page.php:121
+msgid "Background Color of Skill Name"
+msgstr "Couleur de Fond de la compétence"
+
+#: includes/backend/options-page.php:129
+msgid "Font Color of Skill Name"
+msgstr "Couleur du texte de la compétence"
+
+#: includes/backend/metaboxes.php:16
+msgid "Name"
+msgstr "Nom"
+
+#: includes/backend/metaboxes.php:16
+msgid "Level"
+msgstr "Niveau"
+
+#: includes/backend/metaboxes.php:27
+msgid "Delete Skill"
+msgstr "Effacer la compétence"
+
+#: includes/backend/metaboxes.php:36
+msgid "Add New Skill"
+msgstr "Ajouter une nouvelle compétence"
+
+#: includes/backend/metaboxes.php:38
+msgid "e.g. HTML, PHP"
+msgstr "ex. HTML, PHP"
+
+#: includes/backend/metaboxes.php:52
+msgid "Add Skill"
+msgstr "Ajouter une compétence"
+
+#. $id
+#: includes/backend/metaboxes.php:62
+msgid "Skills"
+msgstr "Compétences"
+
+#. Unique ID
+#: includes/backend/metaboxes.php:76
+msgid "Display T-Shape"
+msgstr "Afficher la T-Shape"
+
+#: includes/backend/metaboxes.php:90
+msgid "Insert the following shortcode into posts and pages:"
+msgstr "Inserer le shortcode suivant dans vos articles et pages: "
+
+#: includes/backend/metaboxes.php:93
+msgid ""
+"For more options visit:<br><a href='https://www.wp-tshape.com/documentation/?"
+"lang=en' target='_blank'>Online Documentation</a>"
+msgstr ""
+"Pour plus d'options visiter:<br><a href='https://www.wp-tshape."
+"com/documentation/?lang=fr' target='_blank'>Documentation en ligne</a>"
+
+#: includes/shortcodes/tshape-free.php:36 includes/shortcodes/tshape.php:56
+msgid "Please add an id to your shortcode!"
+msgstr "Ajouter une id à votre shortcode s'il vous plait!"
+
+msgid "WP T-Shape"
+msgstr "WP T-Shape"
+
+#. Description of the plugin
+msgid ""
+"Create T-Shapes and include them easily on pages or posts via shortcode."
+msgstr ""
+"Créer des T-Shapes et  intégrer les à vos pages et articles par  shortcode."
+
+#. URI of the plugin
+msgid "http://www.wp-tshape.com"
+msgstr "http://www.wp-tshape.com"
+
+#. Author of the plugin
+msgid "Besserdich und Redmann GmbH"
+msgstr "Besserdich und Redmann SARL"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.besserdich-redmann.com"
+msgstr "http://www.besserdich-redmann.com"
+
+msgid "basic"
+msgstr "élémentaire"
+
+msgid "good"
+msgstr "bien"
+
+msgid "very good"
+msgstr "très bien"
+
+msgid "expert"
+msgstr "expert"
+
+msgid "New message"
+msgstr "Nouveau message"
